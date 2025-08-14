@@ -1,4 +1,4 @@
-# Software Development 2025 - Week 3 Assignment
+# Software Development 2025 -Python Week 3 Assignment
 
 ## Description
 
